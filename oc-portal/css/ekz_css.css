@@ -1,12 +1,23 @@
 .navbar {
-  background-color: #0088D1;
+  background-color: #FFFFFF;
+  color: #0088D1;
 }
-nav {
-  background-color: #B6B6B6;
+.nav-link {
+  color: #0088D1;
+}
+.dropdown-item {
+  color: #0088D1;
+}
+.dropdown-menu {
+  color: #0088D1;
 }
 .btn-primary {
-  background: #0088D1;
+  background-color: #0088D1;
 }
-.btn-primary:disabled {
-  background: #B6B6B6;
+.breadcrumb {
+  background-color: #FFFFFF;
+}
+.welcome-container {
+  text-align: center;
+  width: 80%;
 }
